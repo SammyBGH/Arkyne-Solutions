@@ -198,6 +198,7 @@
   font-size: 1.1rem;
   margin-bottom: var(--spacing-2xl);
   opacity: 0.9;
+  color: white;
 }
 
 .cta-actions {
